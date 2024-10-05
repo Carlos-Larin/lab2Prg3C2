@@ -1,3 +1,11 @@
+"""
+https://www.kaggle.com/datasets/aadhavvignesh/valorant-weapon-stats
+
+se puede observar que el arma de tipo rifle llamada Vandal y la Phanton hacen el mismo
+el mismo daño en la cabeza a distancia media a larga distancia pega mas la Vandal y 
+en corta distancia la Phanton
+"""
+
 #aqui le tiramos la call a las librerias
 import pandas as pd
 import matplotlib.pyplot as plt

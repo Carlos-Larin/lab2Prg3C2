@@ -1,3 +1,10 @@
+"""
+https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
+
+se puede observar que el stremer de habla hispana thegreft es quien tiene 
+la mayor cantidad de viewers en sus en vivos de twitch
+"""
+
 #aqui le tiramos la call a las librerias
 import pandas as pd
 import matplotlib.pyplot as plt
