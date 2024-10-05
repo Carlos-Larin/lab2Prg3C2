@@ -17,4 +17,3 @@ plt.xticks(rotation=90)
 plt.tight_layout()
 plt.show()
 
-#plt.bar(frecuencia.values,labels=frecuencia.index,autopct="%1.1f%%",)
