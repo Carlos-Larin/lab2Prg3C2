@@ -1,8 +1,11 @@
 """
 https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
 
-se puede observar que el stremer de habla hispana thegreft es quien tiene 
-la mayor cantidad de viewers en sus en vivos de twitch
+se puede observar que el canal de tiwch de la empresa Riot Games es quien tiene 14.7%
+la mayor cantidad de viewers en sus en vivos de twitch, este canal muestra los envivos de los torneos de LOL
+y el Torneo de la VCT valorant ya que son juegos bastantes queridos de la comunidad Gamer,
+y abajo de este canal podemos observar que sigue The Greft con 12.4% el es de habla hispana y su contenido es variado 
+y por ultimo podemos observar a JokerDTV con un 7.4%
 """
 
 #aqui le tiramos la call a las librerias

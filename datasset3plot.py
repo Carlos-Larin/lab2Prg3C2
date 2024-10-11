@@ -1,8 +1,12 @@
 """
 https://www.kaggle.com/datasets/surajjha101/top-youtube-channels-data
 
-
-segun este archivo Csv el canal de Tseries es quien posee el mayor numero de suscriptores
+Al revisar el archivo CSV, nos encontramos con un dato interesante: el canal Tserie es el que tiene el mayor número de suscriptores.
+Esto se hace evidente al observar el gráfico de líneas, que muestra un crecimiento impresionante en su audiencia.
+Este éxito no es casualidad. Es probable que la calidad del contenido, 
+la frecuencia con la que publican y la conexión que establecen con su comunidad sean factores clave en este aumento de seguidores. 
+Sin duda, Tserie ha logrado captar la atención de muchos, 
+y su crecimiento es un testimonio del impacto que pueden tener en el mundo digital.
 """
 import pandas as pd
 import matplotlib.pyplot as plt
